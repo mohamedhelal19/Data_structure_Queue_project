@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683020206 source:e:\embedded system\hacker rank\queue_project\main.c
+	<stdio.h>
+	<stdlib.h>
+
